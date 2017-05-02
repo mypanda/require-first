@@ -27,4 +27,4 @@
 参考了一下
 
 * https://www.zfanw.com/blog/require-js.html
-* 大项目怎么使用 https://github.com/mypanda/require-first.git
+* 大项目怎么使用 http://www.cnblogs.com/evaling/p/6722980.html
